@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JP-Satrio
-- 👀 I’m interested in Enterprise infrastructures and cybersecurity.
-- 🌱 I’m currently learning PowerHA, Ansible, Assembly, cybersecurity in general.
+- 👀 I’m interested in farming and passive income.
+- 🌱 I’m currently learning MQL5 and Python.
 - 💞️ I’m looking to collaborate on ... currently working alone.
 - 📫 How to reach me ... section might be updated once a public project is released.
 
