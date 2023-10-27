@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JP-Satrio
 - 👀 I’m interested in farming and passive income.
-- 🌱 I’m currently learning MQL5 and Python.
+- 🌱 I’m currently learning MQL5, C++ and Python3.
 - 💞️ I’m looking to collaborate on ... currently working alone.
 - 📫 How to reach me ... section might be updated once a public project is released.
 
